@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Becca. I'm a full stack web developer excited to meet people and build community. Most of my experience is in Node and React, but I'm looking to expand my skillset outside the Javascript ecosystem.
+
+Find me on [LinkedIn](www.linkedin.com/in/rebecca-peckman)
